@@ -1,0 +1,16 @@
+C:\Users\android\Documents\programação\GitHub1\csharp\Tipos de variáveis\bin\Debug\net5.0\Tipos de variáveis.exe
+C:\Users\android\Documents\programação\GitHub1\csharp\Tipos de variáveis\bin\Debug\net5.0\Tipos de variáveis.deps.json
+C:\Users\android\Documents\programação\GitHub1\csharp\Tipos de variáveis\bin\Debug\net5.0\Tipos de variáveis.runtimeconfig.json
+C:\Users\android\Documents\programação\GitHub1\csharp\Tipos de variáveis\bin\Debug\net5.0\Tipos de variáveis.runtimeconfig.dev.json
+C:\Users\android\Documents\programação\GitHub1\csharp\Tipos de variáveis\bin\Debug\net5.0\Tipos de variáveis.dll
+C:\Users\android\Documents\programação\GitHub1\csharp\Tipos de variáveis\bin\Debug\net5.0\ref\Tipos de variáveis.dll
+C:\Users\android\Documents\programação\GitHub1\csharp\Tipos de variáveis\bin\Debug\net5.0\Tipos de variáveis.pdb
+C:\Users\android\Documents\programação\GitHub1\csharp\Tipos de variáveis\obj\Debug\net5.0\Tipos de variáveis.csproj.AssemblyReference.cache
+C:\Users\android\Documents\programação\GitHub1\csharp\Tipos de variáveis\obj\Debug\net5.0\Tipos de variáveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Documents\programação\GitHub1\csharp\Tipos de variáveis\obj\Debug\net5.0\Tipos de variáveis.AssemblyInfoInputs.cache
+C:\Users\android\Documents\programação\GitHub1\csharp\Tipos de variáveis\obj\Debug\net5.0\Tipos de variáveis.AssemblyInfo.cs
+C:\Users\android\Documents\programação\GitHub1\csharp\Tipos de variáveis\obj\Debug\net5.0\Tipos de variáveis.csproj.CoreCompileInputs.cache
+C:\Users\android\Documents\programação\GitHub1\csharp\Tipos de variáveis\obj\Debug\net5.0\Tipos de variáveis.dll
+C:\Users\android\Documents\programação\GitHub1\csharp\Tipos de variáveis\obj\Debug\net5.0\ref\Tipos de variáveis.dll
+C:\Users\android\Documents\programação\GitHub1\csharp\Tipos de variáveis\obj\Debug\net5.0\Tipos de variáveis.pdb
+C:\Users\android\Documents\programação\GitHub1\csharp\Tipos de variáveis\obj\Debug\net5.0\Tipos de variáveis.genruntimeconfig.cache

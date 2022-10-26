@@ -1,0 +1,16 @@
+C:\Users\mc735\Documents\GitHub\csharp\ByteTypeint\bin\Debug\net5.0\ByteTypeint.exe
+C:\Users\mc735\Documents\GitHub\csharp\ByteTypeint\bin\Debug\net5.0\ByteTypeint.deps.json
+C:\Users\mc735\Documents\GitHub\csharp\ByteTypeint\bin\Debug\net5.0\ByteTypeint.runtimeconfig.json
+C:\Users\mc735\Documents\GitHub\csharp\ByteTypeint\bin\Debug\net5.0\ByteTypeint.runtimeconfig.dev.json
+C:\Users\mc735\Documents\GitHub\csharp\ByteTypeint\bin\Debug\net5.0\ByteTypeint.dll
+C:\Users\mc735\Documents\GitHub\csharp\ByteTypeint\bin\Debug\net5.0\ByteTypeint.pdb
+C:\Users\mc735\Documents\GitHub\csharp\ByteTypeint\obj\Debug\net5.0\ByteTypeint.csproj.AssemblyReference.cache
+C:\Users\mc735\Documents\GitHub\csharp\ByteTypeint\obj\Debug\net5.0\ByteTypeint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mc735\Documents\GitHub\csharp\ByteTypeint\obj\Debug\net5.0\ByteTypeint.AssemblyInfoInputs.cache
+C:\Users\mc735\Documents\GitHub\csharp\ByteTypeint\obj\Debug\net5.0\ByteTypeint.AssemblyInfo.cs
+C:\Users\mc735\Documents\GitHub\csharp\ByteTypeint\obj\Debug\net5.0\ByteTypeint.csproj.CoreCompileInputs.cache
+C:\Users\mc735\Documents\GitHub\csharp\ByteTypeint\obj\Debug\net5.0\ByteTypeint.dll
+C:\Users\mc735\Documents\GitHub\csharp\ByteTypeint\obj\Debug\net5.0\refint\ByteTypeint.dll
+C:\Users\mc735\Documents\GitHub\csharp\ByteTypeint\obj\Debug\net5.0\ByteTypeint.pdb
+C:\Users\mc735\Documents\GitHub\csharp\ByteTypeint\obj\Debug\net5.0\ByteTypeint.genruntimeconfig.cache
+C:\Users\mc735\Documents\GitHub\csharp\ByteTypeint\obj\Debug\net5.0\ref\ByteTypeint.dll

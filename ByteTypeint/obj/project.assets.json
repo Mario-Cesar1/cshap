@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mc735\\Documents\\GitHub\\csharp\\Tipos de variáveis\\Tipos de variáveis.csproj",
-      "projectName": "Tipos de variáveis",
-      "projectPath": "C:\\Users\\mc735\\Documents\\GitHub\\csharp\\Tipos de variáveis\\Tipos de variáveis.csproj",
+      "projectUniqueName": "C:\\Users\\mc735\\Documents\\GitHub\\csharp\\ByteTypeint\\ByteTypeint.csproj",
+      "projectName": "ByteTypeint",
+      "projectPath": "C:\\Users\\mc735\\Documents\\GitHub\\csharp\\ByteTypeint\\ByteTypeint.csproj",
       "packagesPath": "C:\\Users\\mc735\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mc735\\Documents\\GitHub\\csharp\\Tipos de variáveis\\obj\\",
+      "outputPath": "C:\\Users\\mc735\\Documents\\GitHub\\csharp\\ByteTypeint\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
